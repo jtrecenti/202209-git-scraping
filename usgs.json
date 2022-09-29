@@ -1,0 +1,1901 @@
+{
+  "type": "FeatureCollection",
+  "metadata": {
+    "generated": 1664491121000,
+    "url": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/summary/2.5_day.geojson",
+    "title": "USGS Magnitude 2.5+ Earthquakes, Past Day",
+    "status": 200,
+    "api": "1.10.3",
+    "count": 47
+  },
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "mag": 4.3,
+        "place": "11 km N of Yedisu, Turkey",
+        "time": 1664488143116,
+        "updated": 1664490788040,
+        "tz": null,
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000ipfl",
+        "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/us6000ipfl.geojson",
+        "felt": null,
+        "cdi": null,
+        "mmi": null,
+        "alert": null,
+        "status": "reviewed",
+        "tsunami": 0,
+        "sig": 284,
+        "net": "us",
+        "code": "6000ipfl",
+        "ids": ",us6000ipfl,",
+        "sources": ",us,",
+        "types": ",moment-tensor,origin,phase-data,",
+        "nst": 61,
+        "dmin": 0.478,
+        "rms": 0.66,
+        "gap": 77,
+        "magType": "mwr",
+        "type": "earthquake",
+        "title": "M 4.3 - 11 km N of Yedisu, Turkey"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          40.5348,
+          39.5404,
+          10
+        ]
+      },
+      "id": "us6000ipfl"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "mag": 2.77,
+        "place": "6 km SSW of Potala Pastillo, Puerto Rico",
+        "time": 1664483361550,
+        "updated": 1664485933010,
+        "tz": null,
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/pr71373633",
+        "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/pr71373633.geojson",
+        "felt": null,
+        "cdi": null,
+        "mmi": null,
+        "alert": null,
+        "status": "reviewed",
+        "tsunami": 0,
+        "sig": 118,
+        "net": "pr",
+        "code": "71373633",
+        "ids": ",pr71373633,",
+        "sources": ",pr,",
+        "types": ",origin,phase-data,",
+        "nst": 20,
+        "dmin": null,
+        "rms": 0.25,
+        "gap": 115,
+        "magType": "md",
+        "type": "earthquake",
+        "title": "M 2.8 - 6 km SSW of Potala Pastillo, Puerto Rico"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -66.5076666666667,
+          17.938,
+          11.65
+        ]
+      },
+      "id": "pr71373633"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "mag": 2.46,
+        "place": "Island of Hawaii, Hawaii",
+        "time": 1664483289000,
+        "updated": 1664486110580,
+        "tz": null,
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/hv73159202",
+        "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/hv73159202.geojson",
+        "felt": null,
+        "cdi": null,
+        "mmi": null,
+        "alert": null,
+        "status": "reviewed",
+        "tsunami": 0,
+        "sig": 93,
+        "net": "hv",
+        "code": "73159202",
+        "ids": ",hv73159202,",
+        "sources": ",hv,",
+        "types": ",origin,phase-data,",
+        "nst": 20,
+        "dmin": null,
+        "rms": 0.08,
+        "gap": 82,
+        "magType": "ml",
+        "type": "earthquake",
+        "title": "M 2.5 - Island of Hawaii, Hawaii"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -155.191,
+          19.335,
+          6.77
+        ]
+      },
+      "id": "hv73159202"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "mag": 4.2,
+        "place": "67 km ESE of Sand Point, Alaska",
+        "time": 1664478624928,
+        "updated": 1664486250040,
+        "tz": null,
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000ipeh",
+        "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/us6000ipeh.geojson",
+        "felt": null,
+        "cdi": null,
+        "mmi": 2.432,
+        "alert": null,
+        "status": "reviewed",
+        "tsunami": 0,
+        "sig": 271,
+        "net": "us",
+        "code": "6000ipeh",
+        "ids": ",ak022ci5jtwa,us6000ipeh,",
+        "sources": ",ak,us,",
+        "types": ",origin,phase-data,shakemap,",
+        "nst": 32,
+        "dmin": 0.231,
+        "rms": 0.33,
+        "gap": 133,
+        "magType": "mb",
+        "type": "earthquake",
+        "title": "M 4.2 - 67 km ESE of Sand Point, Alaska"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -159.5573,
+          55.0604,
+          30.868
+        ]
+      },
+      "id": "us6000ipeh"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "mag": 4.1,
+        "place": "Rat Islands, Aleutian Islands, Alaska",
+        "time": 1664477534664,
+        "updated": 1664485181040,
+        "tz": null,
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000ipf0",
+        "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/us6000ipf0.geojson",
+        "felt": null,
+        "cdi": null,
+        "mmi": 1.16,
+        "alert": null,
+        "status": "reviewed",
+        "tsunami": 0,
+        "sig": 259,
+        "net": "us",
+        "code": "6000ipf0",
+        "ids": ",ak022ci57dla,us6000ipf0,",
+        "sources": ",ak,us,",
+        "types": ",origin,phase-data,shakemap,",
+        "nst": 57,
+        "dmin": 0.393,
+        "rms": 0.44,
+        "gap": 159,
+        "magType": "mb",
+        "type": "earthquake",
+        "title": "M 4.1 - Rat Islands, Aleutian Islands, Alaska"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          178.7081,
+          51.2533,
+          29.391
+        ]
+      },
+      "id": "us6000ipf0"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "mag": 2.8,
+        "place": "95 km SE of Naalehu, Hawaii",
+        "time": 1664466500937,
+        "updated": 1664479031040,
+        "tz": null,
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000ipdi",
+        "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/us6000ipdi.geojson",
+        "felt": null,
+        "cdi": null,
+        "mmi": null,
+        "alert": null,
+        "status": "reviewed",
+        "tsunami": 0,
+        "sig": 121,
+        "net": "us",
+        "code": "6000ipdi",
+        "ids": ",hv73158892,us6000ipdi,",
+        "sources": ",hv,us,",
+        "types": ",origin,phase-data,",
+        "nst": 49,
+        "dmin": 0.851,
+        "rms": 0.64,
+        "gap": 308,
+        "magType": "ml",
+        "type": "earthquake",
+        "title": "M 2.8 - 95 km SE of Naalehu, Hawaii"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -155.0056,
+          18.4014,
+          10
+        ]
+      },
+      "id": "us6000ipdi"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "mag": 5.7,
+        "place": "Reykjanes Ridge",
+        "time": 1664465550702,
+        "updated": 1664472981681,
+        "tz": null,
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000ipdh",
+        "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/us6000ipdh.geojson",
+        "felt": null,
+        "cdi": null,
+        "mmi": 0,
+        "alert": "green",
+        "status": "reviewed",
+        "tsunami": 0,
+        "sig": 500,
+        "net": "us",
+        "code": "6000ipdh",
+        "ids": ",us6000ipdh,",
+        "sources": ",us,",
+        "types": ",losspager,moment-tensor,origin,phase-data,shakemap,",
+        "nst": 128,
+        "dmin": 9.241,
+        "rms": 0.55,
+        "gap": 74,
+        "magType": "mww",
+        "type": "earthquake",
+        "title": "M 5.7 - Reykjanes Ridge"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -35.1915,
+          53.7471,
+          10
+        ]
+      },
+      "id": "us6000ipdh"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "mag": 4.6,
+        "place": "129 km NNE of Tobelo, Indonesia",
+        "time": 1664464480210,
+        "updated": 1664476397040,
+        "tz": null,
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000ipdf",
+        "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/us6000ipdf.geojson",
+        "felt": null,
+        "cdi": null,
+        "mmi": null,
+        "alert": null,
+        "status": "reviewed",
+        "tsunami": 0,
+        "sig": 326,
+        "net": "us",
+        "code": "6000ipdf",
+        "ids": ",us6000ipdf,",
+        "sources": ",us,",
+        "types": ",origin,phase-data,",
+        "nst": 103,
+        "dmin": 2.305,
+        "rms": 0.99,
+        "gap": 103,
+        "magType": "mb",
+        "type": "earthquake",
+        "title": "M 4.6 - 129 km NNE of Tobelo, Indonesia"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          128.5285,
+          2.7765,
+          220.505
+        ]
+      },
+      "id": "us6000ipdf"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "mag": 4.8,
+        "place": "Reykjanes Ridge",
+        "time": 1664464262793,
+        "updated": 1664472313040,
+        "tz": null,
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000ipdd",
+        "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/us6000ipdd.geojson",
+        "felt": null,
+        "cdi": null,
+        "mmi": null,
+        "alert": null,
+        "status": "reviewed",
+        "tsunami": 0,
+        "sig": 354,
+        "net": "us",
+        "code": "6000ipdd",
+        "ids": ",us6000ipdd,",
+        "sources": ",us,",
+        "types": ",origin,phase-data,",
+        "nst": 184,
+        "dmin": 9.159,
+        "rms": 0.54,
+        "gap": 90,
+        "magType": "mb",
+        "type": "earthquake",
+        "title": "M 4.8 - Reykjanes Ridge"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -35.1991,
+          53.8416,
+          10
+        ]
+      },
+      "id": "us6000ipdd"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "mag": 4,
+        "place": "95 km ESE of Vallenar, Chile",
+        "time": 1664464189072,
+        "updated": 1664470645040,
+        "tz": null,
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000ipd0",
+        "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/us6000ipd0.geojson",
+        "felt": null,
+        "cdi": null,
+        "mmi": null,
+        "alert": null,
+        "status": "reviewed",
+        "tsunami": 0,
+        "sig": 246,
+        "net": "us",
+        "code": "6000ipd0",
+        "ids": ",us6000ipd0,",
+        "sources": ",us,",
+        "types": ",origin,phase-data,",
+        "nst": 31,
+        "dmin": 0.745,
+        "rms": 1.42,
+        "gap": 155,
+        "magType": "ml",
+        "type": "earthquake",
+        "title": "M 4.0 - 95 km ESE of Vallenar, Chile"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -69.859,
+          -28.9031,
+          145.29
+        ]
+      },
+      "id": "us6000ipd0"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "mag": 3.2,
+        "place": "260 km SW of Tofino, Canada",
+        "time": 1664464174627,
+        "updated": 1664469810040,
+        "tz": null,
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000ipd3",
+        "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/us6000ipd3.geojson",
+        "felt": null,
+        "cdi": null,
+        "mmi": null,
+        "alert": null,
+        "status": "reviewed",
+        "tsunami": 0,
+        "sig": 158,
+        "net": "us",
+        "code": "6000ipd3",
+        "ids": ",us6000ipd3,",
+        "sources": ",us,",
+        "types": ",origin,phase-data,",
+        "nst": 53,
+        "dmin": 2.465,
+        "rms": 0.53,
+        "gap": 216,
+        "magType": "ml",
+        "type": "earthquake",
+        "title": "M 3.2 - 260 km SW of Tofino, Canada"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -128.6739,
+          47.7023,
+          13.641
+        ]
+      },
+      "id": "us6000ipd3"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "mag": 4.7,
+        "place": "12 km NW of Takahagi, Japan",
+        "time": 1664463818339,
+        "updated": 1664468808040,
+        "tz": null,
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000ipci",
+        "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/us6000ipci.geojson",
+        "felt": null,
+        "cdi": null,
+        "mmi": null,
+        "alert": null,
+        "status": "reviewed",
+        "tsunami": 0,
+        "sig": 340,
+        "net": "us",
+        "code": "6000ipci",
+        "ids": ",us6000ipci,",
+        "sources": ",us,",
+        "types": ",origin,phase-data,",
+        "nst": 91,
+        "dmin": 1.943,
+        "rms": 0.68,
+        "gap": 112,
+        "magType": "mb",
+        "type": "earthquake",
+        "title": "M 4.7 - 12 km NW of Takahagi, Japan"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          140.6023,
+          36.7814,
+          6.386
+        ]
+      },
+      "id": "us6000ipci"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "mag": 4.6,
+        "place": "291 km SW of Burica, Panama",
+        "time": 1664463815685,
+        "updated": 1664466006040,
+        "tz": null,
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000ipch",
+        "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/us6000ipch.geojson",
+        "felt": null,
+        "cdi": null,
+        "mmi": null,
+        "alert": null,
+        "status": "reviewed",
+        "tsunami": 0,
+        "sig": 326,
+        "net": "us",
+        "code": "6000ipch",
+        "ids": ",us6000ipch,",
+        "sources": ",us,",
+        "types": ",origin,phase-data,",
+        "nst": 68,
+        "dmin": 2.724,
+        "rms": 0.71,
+        "gap": 144,
+        "magType": "mb",
+        "type": "earthquake",
+        "title": "M 4.6 - 291 km SW of Burica, Panama"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.4178,
+          5.8977,
+          10
+        ]
+      },
+      "id": "us6000ipch"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "mag": 2.5,
+        "place": "28 km E of Honaunau-Napoopoo, Hawaii",
+        "time": 1664460974230,
+        "updated": 1664477775310,
+        "tz": null,
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/hv73158812",
+        "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/hv73158812.geojson",
+        "felt": null,
+        "cdi": null,
+        "mmi": null,
+        "alert": null,
+        "status": "reviewed",
+        "tsunami": 0,
+        "sig": 96,
+        "net": "hv",
+        "code": "73158812",
+        "ids": ",hv73158812,",
+        "sources": ",hv,",
+        "types": ",origin,phase-data,",
+        "nst": 28,
+        "dmin": null,
+        "rms": 0.16,
+        "gap": 59,
+        "magType": "md",
+        "type": "earthquake",
+        "title": "M 2.5 - 28 km E of Honaunau-Napoopoo, Hawaii"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -155.597166666667,
+          19.466,
+          -1.66
+        ]
+      },
+      "id": "hv73158812"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "mag": 3.9,
+        "place": "26 km WSW of Jacó, Costa Rica",
+        "time": 1664460734877,
+        "updated": 1664486656193,
+        "tz": null,
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000ipcd",
+        "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/us6000ipcd.geojson",
+        "felt": 1,
+        "cdi": 2.2,
+        "mmi": null,
+        "alert": null,
+        "status": "reviewed",
+        "tsunami": 0,
+        "sig": 234,
+        "net": "us",
+        "code": "6000ipcd",
+        "ids": ",us6000ipcd,",
+        "sources": ",us,",
+        "types": ",dyfi,origin,phase-data,",
+        "nst": 14,
+        "dmin": 0.737,
+        "rms": 0.35,
+        "gap": 184,
+        "magType": "ml",
+        "type": "earthquake",
+        "title": "M 3.9 - 26 km WSW of Jacó, Costa Rica"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.8563,
+          9.5385,
+          13.888
+        ]
+      },
+      "id": "us6000ipcd"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "mag": 3.22,
+        "place": "Hawaii region, Hawaii",
+        "time": 1664460729930,
+        "updated": 1664489753914,
+        "tz": null,
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/hv73158807",
+        "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/hv73158807.geojson",
+        "felt": 5,
+        "cdi": 3.1,
+        "mmi": null,
+        "alert": null,
+        "status": "reviewed",
+        "tsunami": 0,
+        "sig": 161,
+        "net": "hv",
+        "code": "73158807",
+        "ids": ",hv73158807,us6000ipcc,",
+        "sources": ",hv,us,",
+        "types": ",dyfi,origin,phase-data,",
+        "nst": 51,
+        "dmin": null,
+        "rms": 0.11,
+        "gap": 74,
+        "magType": "ml",
+        "type": "earthquake",
+        "title": "M 3.2 - Hawaii region, Hawaii"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -155.491666666667,
+          19.194,
+          32.57
+        ]
+      },
+      "id": "hv73158807"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "mag": 4.7,
+        "place": "Reykjanes Ridge",
+        "time": 1664453799167,
+        "updated": 1664455397040,
+        "tz": null,
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000ipbs",
+        "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/us6000ipbs.geojson",
+        "felt": null,
+        "cdi": null,
+        "mmi": null,
+        "alert": null,
+        "status": "reviewed",
+        "tsunami": 0,
+        "sig": 340,
+        "net": "us",
+        "code": "6000ipbs",
+        "ids": ",us6000ipbs,",
+        "sources": ",us,",
+        "types": ",origin,phase-data,",
+        "nst": 41,
+        "dmin": 9.441,
+        "rms": 0.71,
+        "gap": 126,
+        "magType": "mb",
+        "type": "earthquake",
+        "title": "M 4.7 - Reykjanes Ridge"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -35.2698,
+          53.4828,
+          10
+        ]
+      },
+      "id": "us6000ipbs"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "mag": 5.4,
+        "place": "89 km WNW of Abepura, Indonesia",
+        "time": 1664451284488,
+        "updated": 1664458692455,
+        "tz": null,
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000ipap",
+        "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/us6000ipap.geojson",
+        "felt": null,
+        "cdi": null,
+        "mmi": 5.821,
+        "alert": "green",
+        "status": "reviewed",
+        "tsunami": 0,
+        "sig": 449,
+        "net": "us",
+        "code": "6000ipap",
+        "ids": ",us6000ipap,",
+        "sources": ",us,",
+        "types": ",losspager,origin,phase-data,shakemap,",
+        "nst": 69,
+        "dmin": 7.607,
+        "rms": 0.73,
+        "gap": 60,
+        "magType": "mb",
+        "type": "earthquake",
+        "title": "M 5.4 - 89 km WNW of Abepura, Indonesia"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.8484,
+          -2.434,
+          20.564
+        ]
+      },
+      "id": "us6000ipap"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "mag": 5.1,
+        "place": "Reykjanes Ridge",
+        "time": 1664445358570,
+        "updated": 1664446402040,
+        "tz": null,
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000ipaf",
+        "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/us6000ipaf.geojson",
+        "felt": null,
+        "cdi": null,
+        "mmi": null,
+        "alert": null,
+        "status": "reviewed",
+        "tsunami": 0,
+        "sig": 400,
+        "net": "us",
+        "code": "6000ipaf",
+        "ids": ",us6000ipaf,",
+        "sources": ",us,",
+        "types": ",origin,phase-data,",
+        "nst": 60,
+        "dmin": 9.234,
+        "rms": 1.05,
+        "gap": 100,
+        "magType": "mb",
+        "type": "earthquake",
+        "title": "M 5.1 - Reykjanes Ridge"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -35.1189,
+          53.7831,
+          10
+        ]
+      },
+      "id": "us6000ipaf"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "mag": 2.7,
+        "place": "92 km NW of Aleneva, Alaska",
+        "time": 1664442966639,
+        "updated": 1664443064543,
+        "tz": null,
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ak022chzmqqh",
+        "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/ak022chzmqqh.geojson",
+        "felt": null,
+        "cdi": null,
+        "mmi": null,
+        "alert": null,
+        "status": "automatic",
+        "tsunami": 0,
+        "sig": 112,
+        "net": "ak",
+        "code": "022chzmqqh",
+        "ids": ",ak022chzmqqh,",
+        "sources": ",ak,",
+        "types": ",origin,phase-data,",
+        "nst": null,
+        "dmin": null,
+        "rms": 0.34,
+        "gap": null,
+        "magType": "ml",
+        "type": "earthquake",
+        "title": "M 2.7 - 92 km NW of Aleneva, Alaska"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -154.0699,
+          58.6214,
+          86.3
+        ]
+      },
+      "id": "ak022chzmqqh"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "mag": 4.3,
+        "place": "south of Panama",
+        "time": 1664440879088,
+        "updated": 1664446011040,
+        "tz": null,
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000ipa4",
+        "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/us6000ipa4.geojson",
+        "felt": null,
+        "cdi": null,
+        "mmi": null,
+        "alert": null,
+        "status": "reviewed",
+        "tsunami": 0,
+        "sig": 284,
+        "net": "us",
+        "code": "6000ipa4",
+        "ids": ",us6000ipa4,",
+        "sources": ",us,",
+        "types": ",origin,phase-data,",
+        "nst": 33,
+        "dmin": 3.475,
+        "rms": 0.82,
+        "gap": 161,
+        "magType": "mb",
+        "type": "earthquake",
+        "title": "M 4.3 - south of Panama"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.7301,
+          4.9634,
+          10
+        ]
+      },
+      "id": "us6000ipa4"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "mag": 4.7,
+        "place": "Reykjanes Ridge",
+        "time": 1664439292150,
+        "updated": 1664444790040,
+        "tz": null,
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000ip9u",
+        "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/us6000ip9u.geojson",
+        "felt": null,
+        "cdi": null,
+        "mmi": null,
+        "alert": null,
+        "status": "reviewed",
+        "tsunami": 0,
+        "sig": 340,
+        "net": "us",
+        "code": "6000ip9u",
+        "ids": ",us6000ip9u,",
+        "sources": ",us,",
+        "types": ",origin,phase-data,",
+        "nst": 54,
+        "dmin": 20.098,
+        "rms": 0.5,
+        "gap": 94,
+        "magType": "mb",
+        "type": "earthquake",
+        "title": "M 4.7 - Reykjanes Ridge"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -35.4701,
+          53.3089,
+          10
+        ]
+      },
+      "id": "us6000ip9u"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "mag": 4.7,
+        "place": "Reykjanes Ridge",
+        "time": 1664437812859,
+        "updated": 1664443699040,
+        "tz": null,
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000ip9g",
+        "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/us6000ip9g.geojson",
+        "felt": null,
+        "cdi": null,
+        "mmi": null,
+        "alert": null,
+        "status": "reviewed",
+        "tsunami": 0,
+        "sig": 340,
+        "net": "us",
+        "code": "6000ip9g",
+        "ids": ",us6000ip9g,",
+        "sources": ",us,",
+        "types": ",origin,phase-data,",
+        "nst": 65,
+        "dmin": 19.234,
+        "rms": 0.55,
+        "gap": 133,
+        "magType": "mb",
+        "type": "earthquake",
+        "title": "M 4.7 - Reykjanes Ridge"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -35.5375,
+          53.4554,
+          10
+        ]
+      },
+      "id": "us6000ip9g"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "mag": 2.7,
+        "place": "46 km W of Mentone, Texas",
+        "time": 1664436015886,
+        "updated": 1664443563061,
+        "tz": null,
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/tx2022tbrw",
+        "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/tx2022tbrw.geojson",
+        "felt": null,
+        "cdi": null,
+        "mmi": null,
+        "alert": null,
+        "status": "reviewed",
+        "tsunami": 0,
+        "sig": 112,
+        "net": "tx",
+        "code": "2022tbrw",
+        "ids": ",us6000ip91,tx2022tbrw,",
+        "sources": ",us,tx,",
+        "types": ",origin,phase-data,",
+        "nst": 22,
+        "dmin": 0.02495580324,
+        "rms": 0.2,
+        "gap": 83,
+        "magType": "ml",
+        "type": "earthquake",
+        "title": "M 2.7 - 46 km W of Mentone, Texas"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -104.0888315,
+          31.71614713,
+          6.774267578
+        ]
+      },
+      "id": "tx2022tbrw"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "mag": 4.7,
+        "place": "Reykjanes Ridge",
+        "time": 1664434717825,
+        "updated": 1664440271040,
+        "tz": null,
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000ip93",
+        "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/us6000ip93.geojson",
+        "felt": null,
+        "cdi": null,
+        "mmi": null,
+        "alert": null,
+        "status": "reviewed",
+        "tsunami": 0,
+        "sig": 340,
+        "net": "us",
+        "code": "6000ip93",
+        "ids": ",us6000ip93,",
+        "sources": ",us,",
+        "types": ",origin,phase-data,",
+        "nst": 63,
+        "dmin": 10.558,
+        "rms": 0.55,
+        "gap": 143,
+        "magType": "mb",
+        "type": "earthquake",
+        "title": "M 4.7 - Reykjanes Ridge"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -34.8795,
+          53.4597,
+          10
+        ]
+      },
+      "id": "us6000ip93"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "mag": 3.67,
+        "place": "109 km NNE of Vieques, Puerto Rico",
+        "time": 1664434636000,
+        "updated": 1664437998490,
+        "tz": null,
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/pr2022272000",
+        "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/pr2022272000.geojson",
+        "felt": null,
+        "cdi": null,
+        "mmi": null,
+        "alert": null,
+        "status": "reviewed",
+        "tsunami": 0,
+        "sig": 207,
+        "net": "pr",
+        "code": "2022272000",
+        "ids": ",us6000ip8k,pr2022272000,",
+        "sources": ",us,pr,",
+        "types": ",origin,phase-data,",
+        "nst": 17,
+        "dmin": 1.0965,
+        "rms": 0.48,
+        "gap": 258,
+        "magType": "md",
+        "type": "earthquake",
+        "title": "M 3.7 - 109 km NNE of Vieques, Puerto Rico"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -65.5343,
+          19.3748,
+          30
+        ]
+      },
+      "id": "pr2022272000"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "mag": 4.8,
+        "place": "Reykjanes Ridge",
+        "time": 1664433363332,
+        "updated": 1664435041040,
+        "tz": null,
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000ip8a",
+        "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/us6000ip8a.geojson",
+        "felt": null,
+        "cdi": null,
+        "mmi": null,
+        "alert": null,
+        "status": "reviewed",
+        "tsunami": 0,
+        "sig": 354,
+        "net": "us",
+        "code": "6000ip8a",
+        "ids": ",us6000ip8a,",
+        "sources": ",us,",
+        "types": ",origin,phase-data,",
+        "nst": 77,
+        "dmin": 10.248,
+        "rms": 0.87,
+        "gap": 82,
+        "magType": "mb",
+        "type": "earthquake",
+        "title": "M 4.8 - Reykjanes Ridge"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -35.0969,
+          53.7514,
+          10
+        ]
+      },
+      "id": "us6000ip8a"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "mag": 4.1,
+        "place": "62 km ESE of Isangel, Vanuatu",
+        "time": 1664430192447,
+        "updated": 1664431371040,
+        "tz": null,
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000ip7k",
+        "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/us6000ip7k.geojson",
+        "felt": null,
+        "cdi": null,
+        "mmi": null,
+        "alert": null,
+        "status": "reviewed",
+        "tsunami": 0,
+        "sig": 259,
+        "net": "us",
+        "code": "6000ip7k",
+        "ids": ",us6000ip7k,",
+        "sources": ",us,",
+        "types": ",origin,phase-data,",
+        "nst": 21,
+        "dmin": 3.544,
+        "rms": 0.56,
+        "gap": 106,
+        "magType": "mb",
+        "type": "earthquake",
+        "title": "M 4.1 - 62 km ESE of Isangel, Vanuatu"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          169.8005,
+          -19.818,
+          269.122
+        ]
+      },
+      "id": "us6000ip7k"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "mag": 4.6,
+        "place": "Reykjanes Ridge",
+        "time": 1664429932147,
+        "updated": 1664438760040,
+        "tz": null,
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000ip7w",
+        "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/us6000ip7w.geojson",
+        "felt": null,
+        "cdi": null,
+        "mmi": null,
+        "alert": null,
+        "status": "reviewed",
+        "tsunami": 0,
+        "sig": 326,
+        "net": "us",
+        "code": "6000ip7w",
+        "ids": ",us6000ip7w,",
+        "sources": ",us,",
+        "types": ",origin,phase-data,",
+        "nst": 48,
+        "dmin": 9.241,
+        "rms": 0.5,
+        "gap": 176,
+        "magType": "mb",
+        "type": "earthquake",
+        "title": "M 4.6 - Reykjanes Ridge"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -35.2245,
+          53.735,
+          10
+        ]
+      },
+      "id": "us6000ip7w"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "mag": 4.8,
+        "place": "Reykjanes Ridge",
+        "time": 1664426707488,
+        "updated": 1664490675040,
+        "tz": null,
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000ip6w",
+        "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/us6000ip6w.geojson",
+        "felt": null,
+        "cdi": null,
+        "mmi": null,
+        "alert": null,
+        "status": "reviewed",
+        "tsunami": 0,
+        "sig": 354,
+        "net": "us",
+        "code": "6000ip6w",
+        "ids": ",us6000ip6w,",
+        "sources": ",us,",
+        "types": ",origin,phase-data,",
+        "nst": 45,
+        "dmin": 15.194,
+        "rms": 0.76,
+        "gap": 81,
+        "magType": "mb",
+        "type": "earthquake",
+        "title": "M 4.8 - Reykjanes Ridge"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -35.1711,
+          53.8124,
+          10
+        ]
+      },
+      "id": "us6000ip6w"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "mag": 4.3,
+        "place": "45 km SSW of Puerto San José, Guatemala",
+        "time": 1664425963392,
+        "updated": 1664490314040,
+        "tz": null,
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000ip6l",
+        "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/us6000ip6l.geojson",
+        "felt": null,
+        "cdi": null,
+        "mmi": null,
+        "alert": null,
+        "status": "reviewed",
+        "tsunami": 0,
+        "sig": 284,
+        "net": "us",
+        "code": "6000ip6l",
+        "ids": ",us6000ip6l,",
+        "sources": ",us,",
+        "types": ",origin,phase-data,",
+        "nst": 33,
+        "dmin": 1.26,
+        "rms": 0.61,
+        "gap": 177,
+        "magType": "mb",
+        "type": "earthquake",
+        "title": "M 4.3 - 45 km SSW of Puerto San José, Guatemala"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -91.0301,
+          13.5658,
+          35
+        ]
+      },
+      "id": "us6000ip6l"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "mag": 4.8,
+        "place": "Bonin Islands, Japan region",
+        "time": 1664425068561,
+        "updated": 1664489363040,
+        "tz": null,
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000ip6i",
+        "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/us6000ip6i.geojson",
+        "felt": null,
+        "cdi": null,
+        "mmi": null,
+        "alert": null,
+        "status": "reviewed",
+        "tsunami": 0,
+        "sig": 354,
+        "net": "us",
+        "code": "6000ip6i",
+        "ids": ",us6000ip6i,",
+        "sources": ",us,",
+        "types": ",origin,phase-data,",
+        "nst": 35,
+        "dmin": 8.89,
+        "rms": 0.85,
+        "gap": 119,
+        "magType": "mb",
+        "type": "earthquake",
+        "title": "M 4.8 - Bonin Islands, Japan region"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          142.6285,
+          28.4541,
+          10
+        ]
+      },
+      "id": "us6000ip6i"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "mag": 5.4,
+        "place": "east of the South Sandwich Islands",
+        "time": 1664424685884,
+        "updated": 1664489096940,
+        "tz": null,
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000ip68",
+        "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/us6000ip68.geojson",
+        "felt": null,
+        "cdi": null,
+        "mmi": 0,
+        "alert": "green",
+        "status": "reviewed",
+        "tsunami": 0,
+        "sig": 449,
+        "net": "us",
+        "code": "6000ip68",
+        "ids": ",us6000ip68,",
+        "sources": ",us,",
+        "types": ",losspager,origin,phase-data,shakemap,",
+        "nst": 49,
+        "dmin": 10.845,
+        "rms": 0.57,
+        "gap": 93,
+        "magType": "mb",
+        "type": "earthquake",
+        "title": "M 5.4 - east of the South Sandwich Islands"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -20.2242,
+          -60.7124,
+          10
+        ]
+      },
+      "id": "us6000ip68"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "mag": 5,
+        "place": "Reykjanes Ridge",
+        "time": 1664424502610,
+        "updated": 1664487266040,
+        "tz": null,
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000ip67",
+        "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/us6000ip67.geojson",
+        "felt": null,
+        "cdi": null,
+        "mmi": null,
+        "alert": null,
+        "status": "reviewed",
+        "tsunami": 0,
+        "sig": 385,
+        "net": "us",
+        "code": "6000ip67",
+        "ids": ",us6000ip67,",
+        "sources": ",us,",
+        "types": ",origin,phase-data,",
+        "nst": 52,
+        "dmin": 18.836,
+        "rms": 0.49,
+        "gap": 81,
+        "magType": "mb",
+        "type": "earthquake",
+        "title": "M 5.0 - Reykjanes Ridge"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -35.1803,
+          53.8631,
+          10
+        ]
+      },
+      "id": "us6000ip67"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "mag": 4.4,
+        "place": "55 km SW of Lixoúri, Greece",
+        "time": 1664424084307,
+        "updated": 1664486156040,
+        "tz": null,
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000ip64",
+        "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/us6000ip64.geojson",
+        "felt": null,
+        "cdi": null,
+        "mmi": null,
+        "alert": null,
+        "status": "reviewed",
+        "tsunami": 0,
+        "sig": 298,
+        "net": "us",
+        "code": "6000ip64",
+        "ids": ",us6000ip64,",
+        "sources": ",us,",
+        "types": ",origin,phase-data,",
+        "nst": 26,
+        "dmin": 1.677,
+        "rms": 0.63,
+        "gap": 157,
+        "magType": "mb",
+        "type": "earthquake",
+        "title": "M 4.4 - 55 km SW of Lixoúri, Greece"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          19.9893,
+          37.8442,
+          35
+        ]
+      },
+      "id": "us6000ip64"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "mag": 6.5,
+        "place": "east of the South Sandwich Islands",
+        "time": 1664420604098,
+        "updated": 1664485072454,
+        "tz": null,
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000ip57",
+        "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/us6000ip57.geojson",
+        "felt": 1,
+        "cdi": 1,
+        "mmi": 0,
+        "alert": "green",
+        "status": "reviewed",
+        "tsunami": 1,
+        "sig": 650,
+        "net": "us",
+        "code": "6000ip57",
+        "ids": ",us6000ip57,pt22272001,at00riyb5m,",
+        "sources": ",us,pt,at,",
+        "types": ",dyfi,impact-link,losspager,moment-tensor,origin,phase-data,shakemap,",
+        "nst": 110,
+        "dmin": 10.995,
+        "rms": 0.68,
+        "gap": 37,
+        "magType": "mww",
+        "type": "earthquake",
+        "title": "M 6.5 - east of the South Sandwich Islands"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -20.027,
+          -60.8461,
+          11
+        ]
+      },
+      "id": "us6000ip57"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "mag": 3.1,
+        "place": "29 km SSE of Mina, Nevada",
+        "time": 1664420415240,
+        "updated": 1664484113040,
+        "tz": null,
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nn00848153",
+        "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/nn00848153.geojson",
+        "felt": 1,
+        "cdi": 2,
+        "mmi": null,
+        "alert": null,
+        "status": "reviewed",
+        "tsunami": 0,
+        "sig": 148,
+        "net": "nn",
+        "code": "00848153",
+        "ids": ",nn00848153,us6000ip55,",
+        "sources": ",nn,us,",
+        "types": ",dyfi,origin,phase-data,",
+        "nst": 20,
+        "dmin": 0.017,
+        "rms": 0.1596,
+        "gap": 67.43,
+        "magType": "ml",
+        "type": "earthquake",
+        "title": "M 3.1 - 29 km SSE of Mina, Nevada"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -117.9748,
+          38.151,
+          9.3
+        ]
+      },
+      "id": "nn00848153"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "mag": 5.2,
+        "place": "Reykjanes Ridge",
+        "time": 1664418239745,
+        "updated": 1664483435040,
+        "tz": null,
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000ip52",
+        "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/us6000ip52.geojson",
+        "felt": null,
+        "cdi": null,
+        "mmi": null,
+        "alert": null,
+        "status": "reviewed",
+        "tsunami": 0,
+        "sig": 416,
+        "net": "us",
+        "code": "6000ip52",
+        "ids": ",us6000ip52,",
+        "sources": ",us,",
+        "types": ",origin,phase-data,",
+        "nst": 47,
+        "dmin": 19.274,
+        "rms": 0.47,
+        "gap": 56,
+        "magType": "mww",
+        "type": "earthquake",
+        "title": "M 5.2 - Reykjanes Ridge"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -35.2242,
+          53.4243,
+          10
+        ]
+      },
+      "id": "us6000ip52"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "mag": 4.6,
+        "place": "Reykjanes Ridge",
+        "time": 1664417205976,
+        "updated": 1664483061040,
+        "tz": null,
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000ip50",
+        "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/us6000ip50.geojson",
+        "felt": null,
+        "cdi": null,
+        "mmi": null,
+        "alert": null,
+        "status": "reviewed",
+        "tsunami": 0,
+        "sig": 326,
+        "net": "us",
+        "code": "6000ip50",
+        "ids": ",us6000ip50,",
+        "sources": ",us,",
+        "types": ",origin,phase-data,",
+        "nst": 70,
+        "dmin": 19.179,
+        "rms": 0.44,
+        "gap": 107,
+        "magType": "mb",
+        "type": "earthquake",
+        "title": "M 4.6 - Reykjanes Ridge"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -35.27,
+          53.5177,
+          10
+        ]
+      },
+      "id": "us6000ip50"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "mag": 4.1,
+        "place": "60 km WSW of Kíssamos, Greece",
+        "time": 1664413565060,
+        "updated": 1664417162040,
+        "tz": null,
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000ip4f",
+        "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/us6000ip4f.geojson",
+        "felt": null,
+        "cdi": null,
+        "mmi": null,
+        "alert": null,
+        "status": "reviewed",
+        "tsunami": 0,
+        "sig": 259,
+        "net": "us",
+        "code": "6000ip4f",
+        "ids": ",us6000ip4f,",
+        "sources": ",us,",
+        "types": ",origin,phase-data,",
+        "nst": 36,
+        "dmin": 1.546,
+        "rms": 0.83,
+        "gap": 183,
+        "magType": "mb",
+        "type": "earthquake",
+        "title": "M 4.1 - 60 km WSW of Kíssamos, Greece"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.0029,
+          35.3851,
+          10
+        ]
+      },
+      "id": "us6000ip4f"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "mag": 4.7,
+        "place": "84 km W of Sola, Vanuatu",
+        "time": 1664412157853,
+        "updated": 1664413566040,
+        "tz": null,
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000ip4a",
+        "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/us6000ip4a.geojson",
+        "felt": null,
+        "cdi": null,
+        "mmi": null,
+        "alert": null,
+        "status": "reviewed",
+        "tsunami": 0,
+        "sig": 340,
+        "net": "us",
+        "code": "6000ip4a",
+        "ids": ",us6000ip4a,",
+        "sources": ",us,",
+        "types": ",origin,phase-data,",
+        "nst": 26,
+        "dmin": 1.502,
+        "rms": 0.79,
+        "gap": 145,
+        "magType": "mb",
+        "type": "earthquake",
+        "title": "M 4.7 - 84 km W of Sola, Vanuatu"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          166.775,
+          -13.9947,
+          11.806
+        ]
+      },
+      "id": "us6000ip4a"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "mag": 4.9,
+        "place": "Reykjanes Ridge",
+        "time": 1664411908532,
+        "updated": 1664413058040,
+        "tz": null,
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000ip48",
+        "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/us6000ip48.geojson",
+        "felt": null,
+        "cdi": null,
+        "mmi": null,
+        "alert": null,
+        "status": "reviewed",
+        "tsunami": 0,
+        "sig": 369,
+        "net": "us",
+        "code": "6000ip48",
+        "ids": ",us6000ip48,",
+        "sources": ",us,",
+        "types": ",origin,phase-data,",
+        "nst": 58,
+        "dmin": 9.197,
+        "rms": 0.86,
+        "gap": 100,
+        "magType": "mb",
+        "type": "earthquake",
+        "title": "M 4.9 - Reykjanes Ridge"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -35.1776,
+          53.8044,
+          10
+        ]
+      },
+      "id": "us6000ip48"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "mag": 2.67,
+        "place": "29 km E of Honaunau-Napoopoo, Hawaii",
+        "time": 1664411466860,
+        "updated": 1664412194740,
+        "tz": null,
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/hv73157907",
+        "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/hv73157907.geojson",
+        "felt": null,
+        "cdi": null,
+        "mmi": null,
+        "alert": null,
+        "status": "reviewed",
+        "tsunami": 0,
+        "sig": 110,
+        "net": "hv",
+        "code": "73157907",
+        "ids": ",hv73157907,",
+        "sources": ",hv,",
+        "types": ",origin,phase-data,",
+        "nst": 28,
+        "dmin": null,
+        "rms": 0.17,
+        "gap": 74,
+        "magType": "ml",
+        "type": "earthquake",
+        "title": "M 2.7 - 29 km E of Honaunau-Napoopoo, Hawaii"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -155.587166666667,
+          19.4766666666667,
+          -1.17
+        ]
+      },
+      "id": "hv73157907"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "mag": 2.88,
+        "place": "3 km SW of Potala Pastillo, Puerto Rico",
+        "time": 1664409721230,
+        "updated": 1664419104767,
+        "tz": null,
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/pr71373463",
+        "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/pr71373463.geojson",
+        "felt": 1,
+        "cdi": 1,
+        "mmi": null,
+        "alert": null,
+        "status": "reviewed",
+        "tsunami": 0,
+        "sig": 128,
+        "net": "pr",
+        "code": "71373463",
+        "ids": ",pr71373463,",
+        "sources": ",pr,",
+        "types": ",dyfi,origin,phase-data,",
+        "nst": 16,
+        "dmin": null,
+        "rms": 0.34,
+        "gap": 96,
+        "magType": "md",
+        "type": "earthquake",
+        "title": "M 2.9 - 3 km SW of Potala Pastillo, Puerto Rico"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -66.5185,
+          17.9665,
+          6.31
+        ]
+      },
+      "id": "pr71373463"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "mag": 4.5,
+        "place": "Reykjanes Ridge",
+        "time": 1664408560004,
+        "updated": 1664411206040,
+        "tz": null,
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000ip41",
+        "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/us6000ip41.geojson",
+        "felt": null,
+        "cdi": null,
+        "mmi": null,
+        "alert": null,
+        "status": "reviewed",
+        "tsunami": 0,
+        "sig": 312,
+        "net": "us",
+        "code": "6000ip41",
+        "ids": ",us6000ip41,",
+        "sources": ",us,",
+        "types": ",origin,phase-data,",
+        "nst": 41,
+        "dmin": 9.119,
+        "rms": 0.79,
+        "gap": 101,
+        "magType": "mb",
+        "type": "earthquake",
+        "title": "M 4.5 - Reykjanes Ridge"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -35.5553,
+          53.7562,
+          10
+        ]
+      },
+      "id": "us6000ip41"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "mag": 4.5,
+        "place": "Kamchatka Peninsula, Russia",
+        "time": 1664406572060,
+        "updated": 1664407508040,
+        "tz": null,
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000ip3m",
+        "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/us6000ip3m.geojson",
+        "felt": null,
+        "cdi": null,
+        "mmi": null,
+        "alert": null,
+        "status": "reviewed",
+        "tsunami": 0,
+        "sig": 312,
+        "net": "us",
+        "code": "6000ip3m",
+        "ids": ",us6000ip3m,",
+        "sources": ",us,",
+        "types": ",origin,phase-data,",
+        "nst": 69,
+        "dmin": 2.762,
+        "rms": 0.71,
+        "gap": 101,
+        "magType": "mb",
+        "type": "earthquake",
+        "title": "M 4.5 - Kamchatka Peninsula, Russia"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          160.589,
+          55.5355,
+          137.8
+        ]
+      },
+      "id": "us6000ip3m"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "mag": 3.02,
+        "place": "5 km SSW of Potala Pastillo, Puerto Rico",
+        "time": 1664406397620,
+        "updated": 1664411442040,
+        "tz": null,
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/pr71373453",
+        "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/pr71373453.geojson",
+        "felt": null,
+        "cdi": null,
+        "mmi": null,
+        "alert": null,
+        "status": "reviewed",
+        "tsunami": 0,
+        "sig": 140,
+        "net": "pr",
+        "code": "71373453",
+        "ids": ",us6000ip3t,pr71373453,",
+        "sources": ",us,pr,",
+        "types": ",origin,phase-data,",
+        "nst": 19,
+        "dmin": null,
+        "rms": 0.24,
+        "gap": 98,
+        "magType": "md",
+        "type": "earthquake",
+        "title": "M 3.0 - 5 km SSW of Potala Pastillo, Puerto Rico"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -66.5216666666667,
+          17.9463333333333,
+          9.38
+        ]
+      },
+      "id": "pr71373453"
+    }
+  ],
+  "bbox": [
+    -159.5573,
+    -60.8461,
+    -1.66,
+    178.7081,
+    58.6214,
+    269.122
+  ]
+}
